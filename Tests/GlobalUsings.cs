@@ -1,0 +1,1 @@
+﻿global using Object = Zork1.Library.Object;
